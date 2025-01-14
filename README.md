@@ -4,7 +4,7 @@
 
 💬 I am currently finishing my M.Sc. in Computer Science at [TUM](https://www.tum.de/en/) and specialize in awesome DevOps, scalable distributed systems and software management. 
 
-🔭 Recent enjoying: Rapid NextJS Development 
+🔭 Recent enjoying: Serverless deployments and endless scalability 🚀
 
 🌱 In my free time, I am interested in tinkering with microcontrollers and hobby gardening
 
